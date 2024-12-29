@@ -24,3 +24,10 @@ Dynamic programming (bottom up). Why? Because each segment has multiple possible
 
 Time complexity:
 O(nlink * start_battery * 4)
+
+
+### Result
+![image](https://github.com/user-attachments/assets/4ec3d649-d84d-4e83-80ae-be6e9de9b8b7)
+
+![image](https://github.com/user-attachments/assets/215cbc41-1292-45da-a514-e5a45f98b6e1)
+
